@@ -57,7 +57,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * AppValley / TutuBox / Ignition - History of [DDoS attacks](https://github.com/fmhy/edit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
 * IObit - History of [Adware](https://www.malwarebytes.com/blog/detections/pup-iobit) and shady products
-
+* Nightcord / Lightcord - contained [Tokenloggers](https://gist.github.com/Vendicated/bb30cb67878fa682bcee140f56af1531) / [Malware](https://imgur.com/a/7NvJeAD)
 ***
 
 ### Torrent Sites / Clients
